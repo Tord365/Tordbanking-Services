@@ -7,9 +7,8 @@ While Some features are simplified for simulation purposes,the structure is desi
 
 -Beginner Java Developer exploring object-oriented programming and clean code practices
 
+-Currently learning Python to build foundational skills in backend and scripting
 
--Currently learning Python to build
-foundational skills in backend and scripting
 ---
 ## Features
 --Deposit money into your account.
